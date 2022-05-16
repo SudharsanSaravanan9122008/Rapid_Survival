@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Rapid-Survival",
+    "slug": "Rapid-Survival",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
